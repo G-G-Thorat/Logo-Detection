@@ -10,7 +10,7 @@ thn u can use its free trial for 1 year which is enough for testing or learning 
 	sudo apt-get update
 	sudo apt-get upgrade(it might take some time) 
 ## Step 2
-  Follow the following code shown in screens below(note the name of json file must b same and path is as set in .bashrc
+  Follow the following code shown in screens below(note the name of json file must b same and path is as set in .bashrc)
  
 Figure 1 first
 	 
