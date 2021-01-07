@@ -21,4 +21,4 @@ Figure 3 third
 ## step3 run program
 	python logo_test.py
 	
-![No Output](https://raw.github.com/Noob-GT/Logo-Detection/main/output.jpg?raw=true)
+![main](https://raw.github.com/Noob-GT/Logo-Detection/Figures/main/output.jpg?raw=true)
