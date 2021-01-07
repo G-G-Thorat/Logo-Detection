@@ -13,12 +13,11 @@ thn u can use its free trial for 1 year which is enough for testing or learning 
   Follow the following code shown in screens below(note the name of json file must b same and path is as set in .bashrc)
  
 Figure 1 first
-   ![](./Figures/fig1.png)	 
+   ![](./Figures/fig1.PNG)	 
 Figure 2 second
-   ![](./Figures/fig2.png)
+   ![](./Figures/fig2.PNG)
 Figure 3 third
-   ![](./Figures/fig3.png)
+   ![](./Figures/fig3.PNG)
 ## step3 run program
 	python logo_test.py
 	
-![main](https://raw.github.com/Noob-GT/Logo-Detection/Figures/main/output.jpg?raw=true)
